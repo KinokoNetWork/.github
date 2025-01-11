@@ -40,6 +40,7 @@ https://discord.gg/Rf5xP5JptK
 > Disboardのサーバー説明から
 
 ## サーバーの進捗状況
+[https://github.com/orgs/KinokoNetWork/projects/3/views/1](https://github.com/orgs/KinokoNetWork/projects/3/views/1)
 
 - [x] サーバーを立てる
 - [ ] 構想（現在も、構想は更新中です。）
