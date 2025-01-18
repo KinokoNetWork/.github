@@ -1,12 +1,80 @@
-## Hi there 👋
+# KinokoNetWork - KinokoServer2の紹介ページです。
+## サーバーの紹介
+経済鯖を作りたいですが、ほかの鯖とは違う、**プレイヤーの一人一人がサーバールール（所謂、法）を変えれるような民主主義サーバー**を目指します。
 
-<!--
+大人～子供まで、**政治経済が分からなくても、遊べて学べる**ような感じに、構想を練る予定です。
 
-**Here are some ideas to get you started:**
+※中3や高校で習う、公民、公共、政治経済・倫理の内容を知ると、話してることが分かって楽しくなる可能性が高いです。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+倫理政経.com - https://k-koumin.com/index.php/ （このサーバーとは関係ありませんが、倫理政経が楽しく学べるサイトです。）
+
+ーー
+
+政治、経済形態も、現在の日本に近く寄せるつもりですが、現在、話し合いが二人でしか成立していないので、経済や国家鯖の方々に話し合いがしたいです。
+
+## 運営募集について
+
+サーバーの構想作成や経済要素の安定をとるためのPluginを管理、作成できる方など、サーバー運営に必要な人数が一向に揃わない状況です。
+
+サーバーを見守る人からバリバリ開発者の方まで募集中です。
+
+GitHub上に運営募集要項が載ってますので、そちらを閲覧していただき、ご一考お願いします。
+
+[きのこサーバー2 - 運営募集要項](<https://github.com/KinokoNetWork/AdminRecruitment>)
+
+## Discordサーバーについて
+このサーバーは、Minecraftサーバー＋雑談通話コミュニティとして形成したサーバーです。
+
+・💬 雑談（ジャンル構わらず、色々しゃべっています）<br>
+・🔊 通話（夜の22時ぐらいから、毎日といえるほどVCしてます）<br>
+・🎮ゲーム（主的にはvalorantで沼t）<br>
+・💻プログラミング（PC関連=/プログラミングと同意味にしてます）<br>
+など、多種多様のジャンルに添えるように運営してまいります。<br>
+
+Minecraftサーバーについては、「きのこサーバー」の後継サーバーとして、初春に開始できるように、運営準備中です。<br>
+https://minecraft-mcworld.com/19072/
+
+参加時のめんどそうな✅認証はありませんので、気軽にご参加ください！<br>
+https://discord.gg/Rf5xP5JptK 
+
+> Disboardのサーバー説明から
+
+## サーバーの進捗状況
+[https://github.com/orgs/KinokoNetWork/projects/3/views/1](https://github.com/orgs/KinokoNetWork/projects/3/views/1)
+
+- [x] サーバーを立てる
+- [ ] 構想（現在も、構想は更新中です。）
+  - [x] 参加からのフローチャート作成
+  - [x] 構成表の作成
+  - [x] 三権分立
+  - [x] 税金について
+  - [x] 経済鯖の安定について
+  - [x] 銀行について
+  - [x] 行政について
+  - [x] 運営の町の設計図
+  - [ ] 法律の起草（民法、刑法）
+- [x] お金の設定
+  - [x] DB
+  - [x] 金の名前
+- [ ] 運営の町の作成
+  - [x] 土地分け
+  - [ ] 公共物、道路の建築
+- [ ] 税金の設定
+- [ ] お店の設定
+  - [x] お店の作成
+  - [ ] お店のconfig設定
+- [ ] 土地の設定
+- [ ] 銀行の設定
+- [ ] 報告の設定
+- [ ] 町について
+- [ ] カジノについて
+- [ ] 資源サーバー
+- [ ] スコアボード
+- [ ] テストプレイ
+- [ ] デバッグ作業
+      
+<progress value="70" max="100"></progress>
+
+## サーバーに関しての問い合わせ
+X (Twitter) : [@kinoko1216](https://x.com/kinoko1216)
+Discord : [https://discord.gg/Rf5xP5JptK](https://discord.gg/Rf5xP5JptK)
