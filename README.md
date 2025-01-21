@@ -53,6 +53,7 @@ https://discord.gg/Rf5xP5JptK
 [https://github.com/orgs/KinokoNetWork/projects/3/views/1](https://github.com/orgs/KinokoNetWork/projects/3/views/1)
 
 > サーバー機能についての説明は、[function_list](https://github.com/KinokoNetWork/.github/tree/main/function_list)から行っています。開発途中Pluginの内容もここに掲載予定です。
+
 - [x] サーバーを立てる
 - [ ] 構想（現在も、構想は更新中です。）
   - [x] 参加からのフローチャート作成
