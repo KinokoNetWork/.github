@@ -1,4 +1,6 @@
 # KinokoNetWork - KinokoServer2の紹介ページです。
+![1000000428](https://github.com/user-attachments/assets/ef5ee056-4db2-43a3-ab9f-0eeb6e26bad2)
+
 ## サーバーの紹介
 経済鯖を作りたいですが、ほかの鯖とは違う、**プレイヤーの一人一人がサーバールール（所謂、法）を変えれるような民主主義サーバー**を目指します。
 
@@ -22,6 +24,16 @@ GitHub上に運営募集要項が載ってますので、そちらを閲覧し�
 
 [きのこサーバー2 - 運営募集要項](<https://github.com/KinokoNetWork/AdminRecruitment>)
 
+### 運営メンバー
+| No | MCID | 役職 |
+| --- | --- | --- |
+| 1 | Kinoko_2K | Owner(初期), Developer, Builder | 
+| 2 | tenju831kirai | Staff(初期), Builder |
+| 3 | pla_s | Administrator(初期) |
+| 4 | tamagoyakikunda | Developer(初期) |
+| 5 | hage_death | Staff(初期), Builder |
+| 6 | tonkotu10 | Staff(初期) |
+
 ## Discordサーバーについて
 このサーバーは、Minecraftサーバー＋雑談通話コミュニティとして形成したサーバーです。
 
@@ -42,32 +54,48 @@ https://discord.gg/Rf5xP5JptK
 ## サーバーの進捗状況
 [https://github.com/orgs/KinokoNetWork/projects/3/views/1](https://github.com/orgs/KinokoNetWork/projects/3/views/1)
 
+> サーバー機能についての説明は、[function_list](https://github.com/KinokoNetWork/.github/tree/main/function_list)から行っています。開発途中Pluginの内容もここに掲載予定です。
+
 - [x] サーバーを立てる
 - [ ] 構想（現在も、構想は更新中です。）
   - [x] 参加からのフローチャート作成
   - [x] 構成表の作成
   - [x] 三権分立
-  - [x] 税金について
-  - [x] 経済鯖の安定について
+  - [ ] 税金について
+  - [ ] 経済鯖の安定について
   - [x] 銀行について
   - [x] 行政について
   - [x] 運営の町の設計図
   - [ ] 法律の起草（民法、刑法）
+    - [x] 処罰管理法
+    - [ ] 裁判法
+    - [ ] 民法
+    - [ ] 刑法
+    - [ ] 取引法
+  - [ ] 裁判について
+    - [ ] 法律の制定
+    - [x] 裁判管理について
+    - [ ] 裁判ガイドラインの作成
 - [x] お金の設定
   - [x] DB
   - [x] 金の名前
 - [ ] 運営の町の作成
   - [x] 土地分け
   - [ ] 公共物、道路の建築
+    - [x] 市役所
+    - [x] 裁判所
+    - [ ] 国会
+    - [ ] spawnの家
 - [ ] 税金の設定
 - [ ] お店の設定
   - [x] お店の作成
   - [ ] お店のconfig設定
 - [ ] 土地の設定
-- [ ] 銀行の設定
 - [ ] 報告の設定
 - [ ] 町について
 - [ ] カジノについて
+- [ ] 投票機能について
+  - [x] 二つ名機能（Prefix管理）
 - [ ] 資源サーバー
 - [x] スコアボード
 - [ ] テストプレイ
