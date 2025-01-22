@@ -1,4 +1,6 @@
 # KinokoNetWork - KinokoServer2の紹介ページです。
+![1000000428](https://github.com/user-attachments/assets/ef5ee056-4db2-43a3-ab9f-0eeb6e26bad2)
+
 ## サーバーの紹介
 経済鯖を作りたいですが、ほかの鯖とは違う、**プレイヤーの一人一人がサーバールール（所謂、法）を変えれるような民主主義サーバー**を目指します。
 
