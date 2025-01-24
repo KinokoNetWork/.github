@@ -57,6 +57,15 @@ https://discord.gg/Rf5xP5JptK
 > サーバー機能についての説明は、[function_list](https://github.com/KinokoNetWork/.github/tree/main/function_list)から行っています。開発途中Pluginの内容もここに掲載予定です。
 
 - [x] サーバーを立てる
+  - [ ] Lobbyサーバー
+    - [ ] 建築
+    - [ ] 管理plugin
+  - [ ] Lifeサーバー
+    - [ ] 建築
+    - [x] 管理plugin
+  - [ ] Minigameサーバー
+    - [ ] 建築
+    - [ ] ミニゲーム
 - [ ] 構想（現在も、構想は更新中です。）
   - [x] 参加からのフローチャート作成
   - [x] 構成表の作成
@@ -68,10 +77,8 @@ https://discord.gg/Rf5xP5JptK
   - [x] 運営の町の設計図
   - [ ] 法律の起草（民法、刑法）
     - [x] 処罰管理法
-    - [ ] 裁判法
-    - [ ] 民法
-    - [ ] 刑法
-    - [ ] 取引法
+    - [x] 裁判法
+    - [ ] サーバー法（中心となるサーバールール）
   - [ ] 裁判について
     - [ ] 法律の制定
     - [x] 裁判管理について
