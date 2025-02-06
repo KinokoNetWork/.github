@@ -15,5 +15,5 @@ Please find another server.
 Also, regarding Japanese, there are rules for the server, so please check them.<br>
 If you are a human and do not follow the rules, you will be banned from connecting to the server.
 
-https://seesaawiki.jp/kinokoserver2/d/tos
+https://seesaawiki.jp/kinokoserver2/d/tos<br>
 https://seesaawiki.jp/kinokoserver2/d/Discord%b5%ac%cc%f3
